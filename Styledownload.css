@@ -1,0 +1,44 @@
+.contenido{
+    padding: 5pc;
+
+}
+section{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section a{
+
+    justify-content: center;
+}
+.inforDescarga{
+
+    border-style: groove;
+    border-color: white;
+    max-width: 50%;
+    flex: 1;
+    padding: 25px;
+    margin: 30px;
+    background-color:  rgb(63, 63, 63);
+}
+
+.inforDescarga p{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.descarga{
+    text-align: center;
+    color: white;
+    list-style: none;
+
+    border-style: groove;
+    border-color: white;
+    max-width: 50vh;
+    flex:1;
+    padding: 25px;
+    margin: 30px;
+    background-color:rgb(63, 63, 63) ;
+}
