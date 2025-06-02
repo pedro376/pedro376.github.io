@@ -2,7 +2,7 @@
     display: flex;
     position: static;
     flex-wrap: wrap;
-    
+    padding: 5pc;
 }
 
 
@@ -10,7 +10,6 @@ aside{
     margin: 30px;
     border-style: groove;
     flex: 60%;
-    width: 30%;
     padding: 30px;
     background-color: rgb(48, 48, 48);
 }

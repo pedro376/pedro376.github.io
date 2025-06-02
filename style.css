@@ -22,7 +22,7 @@ body{
 }
 
 .header{
-    
+    position: fixed;
     border-bottom: 1px groove hsla(0, 0%, calc(calc(8% - (-1 * 10%)) + (-1 * 4%)), 1);
     filter: drop-shadow(1px 1px 70px rgb(153, 153, 153));
     border-color: white;
@@ -39,7 +39,7 @@ body{
     display: none;
 }
 .menu{
-
+    
     position: absolute;
     top: 0;
     left: 0;
